@@ -38,3 +38,4 @@ public class testEntity {
     public testDTO toDTOWithId(){return new testDTO(this.id, this.name, this.password);}
 }
 
+// PR 테스트입니다
